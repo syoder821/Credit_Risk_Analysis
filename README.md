@@ -5,7 +5,7 @@ In this analysis, the focus is on Supervised Learning using a free dataset from 
 To complete this analysis, different Machine Learning techniques are used to train and evaluate the data with unbalanced classes. The dataset from the LendingClub has an unbalanced classification problem due to the number of good loans significantly outweighing the amount of risky loans. In order balance out the classifications to allow for more meaningful predictions and improve the accuracy score, various Machine Learning algorithms are employed to resample the data. These algorithms include RandomOverSampler, SMOTE, ClusterCentroids, SMOTEENN, BalancedRandomForestClassifier, and EasyEnsembleClassifier.  A recomendation of which model to use is provided based on the analysis results.
 
 # Results
-![Alt Text](ADD Traing testing image)
+![Alt Text](https://github.com/syoder821/Credit_Risk_Analysis/blob/main/Resources/Images/Training_Testing.png)
 ## Deliverable 1: Use Resampling Models to Predict Credit Risk
 ### Oversampling
 - RandomOverSampler Model
